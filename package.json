@@ -9,7 +9,8 @@
   "author": "Jesse Russell",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
     "express": "^4.16.2",
     "pm2": "^4.5.4",
     "pug": "^3.0.0",
